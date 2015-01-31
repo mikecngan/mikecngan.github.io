@@ -99,7 +99,7 @@ header nav ul li a,
 
 .billboard .caption .cap_title{
 	font-family: 'satellite', arial;
-	font-size: 50px;
+	font-size: 80px;
 	color: #4d4d4d;
 	margin-bottom: 30px;
 }
@@ -134,7 +134,7 @@ header nav ul li a,
 	width: 17px;
 	height: 5px;
 	display: inline-block;
-	margin: 0 0 0px 0px;
+	margin: 0 0 0 0;
 }
 
 .billboard .caption a:hover i{

@@ -112,17 +112,17 @@ header nav ul li a,
 }
 
 .billboard .caption a{
-	padding: 15px 80px;
+	padding: 15px 60px;
 	background: #4d4d4d;
 	color: #fff;
 	font-family: 'open_semibold', arial;
 	font-weight: bold;
 	font-size: 18px;
 	text-decoration: none;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	-o-border-radius: 100px;
-	border-radius: 100px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-o-border-radius: 20px;
+	border-radius: 20px;
 }
 
 .billboard .caption a:hover{

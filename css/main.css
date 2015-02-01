@@ -3,6 +3,9 @@ body {
 	background: url('../img/mikebg.jpg') no-repeat;
 	background-size: 100% auto;
 }
+canvas {
+	display: block;
+}
 
 /*  Fonts  */
 @font-face {

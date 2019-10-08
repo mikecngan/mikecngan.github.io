@@ -88,7 +88,7 @@ header nav ul li a,
 	text-align: center;
 	position: relative;
 	overflow: hidden;
-	
+
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -111,7 +111,7 @@ header nav ul li a,
 	font-family: 'open_regular', arial;
 	font-size: 16px;
 	color: #4d4d4d;
-	margin-bottom: 60px;	
+	margin-bottom: 60px;
 }
 
 .billboard .caption a{
@@ -126,6 +126,8 @@ header nav ul li a,
 	-moz-border-radius: 20px;
 	-o-border-radius: 20px;
 	border-radius: 20px;
+  line-height: 3.5;
+  white-space: nowrap;
 }
 
 .billboard .caption a:hover{
@@ -148,13 +150,13 @@ header nav ul li a,
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #d1d0d0;  
+   color: #d1d0d0;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #d1d0d0;  
+   color: #d1d0d0;
 }
 
-:-ms-input-placeholder {  
-   color: #d1d0d0;  
+:-ms-input-placeholder {
+   color: #d1d0d0;
 }

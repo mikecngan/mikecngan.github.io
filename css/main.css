@@ -114,6 +114,13 @@ header nav ul li a,
 	margin-bottom: 60px;
 }
 
+.billboard .caption .cap_desc2{
+	font-family: 'open_regular', arial;
+	font-size: 16px;
+	color: #4d4d4d;
+	margin-bottom: 10px;
+}
+
 .billboard .caption a{
 	padding: 15px 60px;
 	background: #4d4d4d;

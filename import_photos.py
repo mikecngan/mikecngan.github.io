@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 # Directory containing the JPEG files
-directory = '/Users/cngan/Documents/mikecngan.github.io/sarasota_2024/'
+directory = '/Users/cngan/Documents/mikecngan.github.io/finland_2025/'
 
 # Get list of JPEG files sorted by date modified
 jpeg_files = sorted(
@@ -16,7 +16,7 @@ for jpeg in jpeg_files:
     snippet = f'''
     <div>
         <p>Sample Text</p>
-        <img src="{jpeg}" alt="Alpine Visitor Center" style="width:100%">
+        <img src="{jpeg}" style="width:100%">
     </div>'''
     html_snippets.append(snippet)
 
